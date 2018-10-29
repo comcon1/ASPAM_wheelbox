@@ -26,10 +26,12 @@ via 12x25x4 magnet with two holes.
 
 The feeder is constructed from one *body* detail and two *side* details. Drawing with bending properties are attached.
 The body is connected to the side by stainless clinchers.
-Material: stainless steel of 0.3 - 0.7 mm in width.
 
-**todo: increase holes to 7 mm**
-**todo: bottle separator details**
+Bottle separator details are designed for manual bending. Separator is inserted into the ready feeder to localize 
+the feed in the proper part of the feeder.
+
+Material for all details: stainless steel of 0.3 - 0.7 mm in width.
+
 
 # Licensing 
 
